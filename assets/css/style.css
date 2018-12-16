@@ -215,3 +215,12 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+@media screen 
+and (min-width: 320px)
+and (max-width: 640px) {
+  .work {
+    width: 100%
+
+  }
+}
